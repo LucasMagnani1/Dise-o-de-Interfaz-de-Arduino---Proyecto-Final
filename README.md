@@ -1,4 +1,4 @@
-# Diseño_de_Interfaz_de_Arduino  -  Proyecto_Final
+# Diseño de Interfaz de Arduino  -  Proyecto Final
 
 En el marco del curso 'Diseño de Interfaz mediante Arduino' de la Universidad de Chile, realicé un proyecto que fusiona la programación y el hardware sumado al Diseño Industrial para crear un producto que integre estos dos campos de aprendizaje. Este trabajo final fue una excelente ocasión para poner en práctica los conocimientos adquiridos y poner en práctica el potencial de combinar disciplinas que en muchos casos parecen distantes. El resultado es un producto que no solo cumple una función específica, sino que también abre las puertas a futuras aplicaciones.
 Nuestro proyecto surge del gran interés por los recientemente descubiertos sensores, algo totalmente novedoso para mí, y la posibilidad de integrarlos a mecanismos que permitan ampliar la gama de posibilidades que ofrece un objeto.
