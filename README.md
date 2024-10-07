@@ -73,6 +73,30 @@ El código para programar estas funciones fue una situación de prueba y error, 
 
 Como guía teníamos para tomar como referencia la comunidad de Arduino, la cual es abierta y envían códigos que quizá coinciden parcialmente con los que se necesitan desarrollar, debiendo hacer modificaciones. Uno que nos facilitó la comunidad, fue el código que permite adelantar, retroceder y girar.
 
+La integración de esa sección de código debe respetar lo que se venía planteando en las secciones anteriores. Debe respetar el lenguaje, manteniendo una coherencia con otras funciones. 
+Luego de horas de revisiones y cargar el código, aparentemente estaba operativo,  en el prototipo, pudimos ver los resultados adjuntados en las carpetas llamadas “Fallo de Programación” del link de la cita al final del documento.
+
+Posterior a esto, se corrigieron detalles de redacción del código y se arribó al resultado final (adjuntado como Video - Resultado Final) 
+
+
+
+
+## Prototipado
+
+Una vez conseguidos los componentes y pudimos dimensionar el tamaño de cada uno, propusimos diferentes distribuciones. Terminamos eligiendo una configuración en torno a la placa de Arduino UNO, donde se posiciona en el centro y cortamos una placa de acrílico con forma de T para que sea lo más compacto posible y se pueda conectar de la manera más simple posible.
+
+
+Los motores DC de las ruedas y la fuente de poder los ubicamos en la parte inferior para economizar espacio en la parte superior, donde colocamos los componentes que más se deberían utilizar. 
+
+Se pegó con cinta adhesiva la el Puente H y el Arduino UNO en el centro de la placa, y hacia las puntas la ProtoBoard y el Sensor Ultrasónico, de manera que haya el menor cruce de cables.
+
+Finalmente, la intención era que los cables tengan una coherencia de colores, donde:
+- Los naranja, amarillo y rojo sean +
+- Los verde, marron y negro sean -
+- y los azules  y blancos de información
+Pero calculamos cable de menos, por ende, finalmente no seguían la coherencia que pretendíamos y atravesamos un problemón de último momento: 
+Si bien teníamos 11 cables hembra y 5 macho además de una reserva de emergencia, tuvimos que utilizar más de los que teníamos planeados, por ende, a modo de una solución preventiva, a los cable macho debimos quitar su cabezal, cortarlos y empalmarlos  para que funcionen como hembra. 
+
 
 
 
