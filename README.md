@@ -25,31 +25,31 @@ Finalmente, corroborado esto último, iniciamos la etapa propositiva/creativa.
 Luego de definir el tipo de sensor, comenzamos a dibujar propuestas de diseño teniendo en cuenta la morfología que subjetivamente nos interesaba y un tamaño estimado de lo que podía llegar a ser el proyecto. 
 
 ### Materiales
-Castor Wheel (1) = Realizar movimientos sin impedimentos de ejes o direcciones
-Caja de pilas (1) = Portapilas
-Pilas AA (4)
-Método de alimentación del robot
-Sensor Ultrasonico HC.SR04 (1) = Detección de Obstáculos
-Servo SG90 (1) = Ampliar el espectro de análisis del sensor.
-Soporte para Servo Motor (1)
-Placa Shield Sensor V5 (1) = Ampliación de pines para conectar servomotores y sensores con mayor facilidad
-Mecanismo de engranajes (1) = Habilitan el movimiento
-Arduino Uno R3 (1)
-Driver de Motor L298N (1) = Puente H para regulación de los motores DC
-Placa de acrílico transparente (1) = Soporte / "chasis" del prototipo
-Motor DC (2) = Habilita el movimiento de las ruedas hacia adelante / atrás
-Piezas para fijación de Motor (2) = Soportes laterales para fijación de los motores DC
-LED (2) = Rojo y Verde
-Buzzer (1) = Emisión de sonidos
-ProtoBoard (1) = Conexión de LEDs y pines
-Resistencias (3) = 220v
-Interruptor (1) = ON/OFF
-Neumáticos con llanta (2) = Ruedas conectadas a los laterales del motores DC permitiendo dirección
-Cables Hembra - Hembra (11)
-Cables Macho - Hembra (5)
-Tornillos y tuercas = Fijación de componentes
-Banda elástica (1) = Fijación de sensor
-Cinta bifaz (1) = Pegado de placas y Servo
+- Castor Wheel (1) = Realizar movimientos sin impedimentos de ejes o direcciones
+- Caja de pilas (1) = Portapilas
+- Pilas AA (4)
+- Método de alimentación del robot
+- Sensor Ultrasonico HC.SR04 (1) = Detección de Obstáculos
+- Servo SG90 (1) = Ampliar el espectro de análisis del sensor.
+- Soporte para Servo Motor (1)
+- Placa Shield Sensor V5 (1) = Ampliación de pines para conectar servomotores y sensores con mayor facilidad
+- Mecanismo de engranajes (1) = Habilitan el movimiento
+- Arduino Uno R3 (1)
+- Driver de Motor L298N (1) = Puente H para regulación de los motores DC
+- Placa de acrílico transparente (1) = Soporte / "chasis" del prototipo
+- Motor DC (2) = Habilita el movimiento de las ruedas hacia adelante / atrás
+- Piezas para fijación de Motor (2) = Soportes laterales para fijación de los motores DC
+- LED (2) = Rojo y Verde
+- Buzzer (1) = Emisión de sonidos
+- ProtoBoard (1) = Conexión de LEDs y pines
+- Resistencias (3) = 220v
+- Interruptor (1) = ON/OFF
+- Neumáticos con llanta (2) = Ruedas conectadas a los laterales del motores DC permitiendo dirección
+- Cables Hembra - Hembra (11)
+- Cables Macho - Hembra (5)
+- Tornillos y tuercas = Fijación de componentes
+- Banda elástica (1) = Fijación de sensor
+- Cinta bifaz (1) = Pegado de placas y Servo
 
 
 ### Rápidamente nos dimos cuenta de tres factores a tener en cuenta:
