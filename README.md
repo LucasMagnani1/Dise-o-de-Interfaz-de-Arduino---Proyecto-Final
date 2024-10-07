@@ -91,12 +91,19 @@ Los motores DC de las ruedas y la fuente de poder los ubicamos en la parte infer
 Se pegó con cinta adhesiva la el Puente H y el Arduino UNO en el centro de la placa, y hacia las puntas la ProtoBoard y el Sensor Ultrasónico, de manera que haya el menor cruce de cables.
 
 Finalmente, la intención era que los cables tengan una coherencia de colores, donde:
-- Los naranja, amarillo y rojo sean +
-- Los verde, marron y negro sean -
-- y los azules  y blancos de información
+Los naranja, amarillo y rojo sean +
+Los verde, marron y negro sean -
+y los azules  y blancos de información
 Pero calculamos cable de menos, por ende, finalmente no seguían la coherencia que pretendíamos y atravesamos un problemón de último momento: 
 Si bien teníamos 11 cables hembra y 5 macho además de una reserva de emergencia, tuvimos que utilizar más de los que teníamos planeados, por ende, a modo de una solución preventiva, a los cable macho debimos quitar su cabezal, cortarlos y empalmarlos  para que funcionen como hembra. 
 
+Hicimos las últimas verificaciones de diseño y corregimos los últimos detalles de código, cargando repetidas veces el archivo al sistema y corroborando funcionalidad para asegurarnos que esté todo en orden.
 
+## Citado:
+
+Videos de referencia dentro de las carpetas de referencia en el siguiente link. 
+No se pueden visualizar en el momento, se deberían descargar.
+En la carpeta README.md  se encuentra el mismo documento al actual
+https://github.com/LucasMagnani1/Diseno_de_Interfaz_de_Arduino___Proyecto_Final/tree/main
 
 
